@@ -95,9 +95,8 @@ Before analysis, the data was cleaned and standardized:
 - Instagram shows the **highest average engagement rate**  
 - Twitter and Instagram deliver **higher engagement even with lower ad spend**  
 - High-performing hashtags include:
-  - #Cybertruck  
-  - #ModelY  
-- Lower **Cost per Engagement (CPE)** leads to higher ROI  
+  - #EVRevolution
+- Lower **Cost per Engagement (CPE)** leads to higher ROI - CyberTruckLaunch campaign had the highest ROI. 
 
 ---
 
