@@ -1,4 +1,5 @@
 # 🚀 Tesla Social Media Analytics Project (Excel)
+![Dashboard Pic](Dashboard_Snapshot.png)
 
 ## 🎯 Problem Statement
 Tesla invests heavily in digital marketing across platforms, but lacks a **centralized system** to:
